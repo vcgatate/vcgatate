@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vcgatate
-- 👀 I’m interested in coding C language
-- 🌱 I’m currently learning Java Fundamentals 
-- 💞️ I’m looking to collaborate on coding skills in Java  
+- 👀 I’m interested in Java and Python programming
+- 🌱 I’m currently into Full Stack Developer course 
+- 💞️ I’m looking to collaborate on coding skills in Java | Python  
 - 📫 How to reach me 9886269449 
 
 <!---
