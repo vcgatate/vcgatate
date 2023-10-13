@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vcgatate
-- 👀 I’m interested in Java and Python programming
-- 🌱 I’m currently into Full Stack Developer course 
-- 💞️ I’m looking to collaborate on coding skills in Java | Python  
-- 📫 How to reach me 9886269449 
+- 👋 Hi, I’m @Veeranna Gatate
+- 👀 I’m interested in Core Java Development programming
+- 🌱 I am currently working as SME on CLoud and Full stack development 
+- 💞️ I’m looking to collaborate on coding skills in Java | AWS | DevOps
+- 📫 How to reach me 9886269449
 
 <!---
 vcgatate/vcgatate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
